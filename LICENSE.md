@@ -1,4 +1,4 @@
-Copyright © 2026 [Copyright Holder]. All rights reserved.
+Copyright © 2026 Hadis Shala. All rights reserved.
 
 The source code in this repository is made publicly available for viewing and technical evaluation.
 
