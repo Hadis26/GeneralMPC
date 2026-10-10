@@ -317,4 +317,10 @@ The direct-multiple-shooting NLP, Gauss–Newton SQP/QP formulation, ℓ₁-meri
 
 ## License
 
-See `LICENSE` for the terms applicable to this repository. Add a license file before public distribution; no license is implied by the present README.
+**All Rights Reserved.**
+
+GeneralMPC is publicly available for source-code inspection and technical evaluation. No open-source license is granted.
+
+Use, modification, redistribution, or incorporation into other software requires prior written permission from the copyright holder, except where otherwise permitted by law or applicable platform terms.
+
+See [LICENSE](LICENSE) for details.
