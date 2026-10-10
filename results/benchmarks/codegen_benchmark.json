@@ -1,0 +1,25 @@
+{
+  "casadi": {
+    "mean_ms": 5.027722134254873,
+    "median_ms": 3.8473960012197495,
+    "p95_ms": 7.392385386629029,
+    "max_ms": 78.0366660328582,
+    "mean_iterations": 1.44,
+    "max_violation": 2.0070656248094565e-09,
+    "final_state_norm": 0.012041718708525159
+  },
+  "generated_c": {
+    "mean_ms": 4.748213675338775,
+    "median_ms": 3.4697914961725473,
+    "p95_ms": 7.528203830588608,
+    "max_ms": 72.10750004742295,
+    "mean_iterations": 1.44,
+    "max_violation": 2.0070656248094565e-09,
+    "final_state_norm": 0.012041718708525159
+  },
+  "comparison": {
+    "max_control_difference": 0.0,
+    "max_state_difference": 0.0,
+    "mean_speedup": 1.0588660237360012
+  }
+}

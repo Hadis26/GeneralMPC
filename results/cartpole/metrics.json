@@ -1,0 +1,17 @@
+{
+  "final_state": [
+    -0.008825496234119289,
+    0.0002149490956541515,
+    0.008005908160380527,
+    -0.0017241917209582563
+  ],
+  "max_force_N": 9.4868298154003,
+  "max_cart_position_m": 0.3055233943697406,
+  "mean_solve_time_ms": 4.999010430183262,
+  "median_solve_time_ms": 3.8058965001255274,
+  "max_solve_time_ms": 77.52166700083762,
+  "p95_solve_time_ms": 6.897002074401825,
+  "mean_sqp_iterations": 1.44,
+  "max_constraint_violation": 2.0070656248094565e-09,
+  "fraction_under_deadline": 0.99
+}

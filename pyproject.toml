@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "generalmpc"
+version = "0.1.0"
+description = "A compact nonlinear model predictive control framework using SQP, CasADi and OSQP."
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "numpy",
+    "scipy",
+    "casadi",
+    "osqp",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-cov",
+    "matplotlib",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

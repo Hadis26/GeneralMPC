@@ -1,0 +1,24 @@
+{
+  "sqp": {
+    "mean_time_ms": 5.116234228480607,
+    "median_time_ms": 3.842583973892033,
+    "p95_time_ms": 7.221024960745125,
+    "max_time_ms": 79.8167500179261,
+    "mean_iterations": 1.44,
+    "max_violation": 2.0070656248094565e-09,
+    "deadline_fraction": 0.99,
+    "final_state_norm": 0.012041718708525159,
+    "control_effort": 6.0996601531583545
+  },
+  "rti": {
+    "mean_time_ms": 3.7847204005811363,
+    "median_time_ms": 3.6399789969436824,
+    "p95_time_ms": 4.276035760995001,
+    "max_time_ms": 12.212208006531,
+    "mean_iterations": 1.0,
+    "max_violation": 23.363033829536015,
+    "deadline_fraction": 1.0,
+    "final_state_norm": 0.011128503701538204,
+    "control_effort": 6.816510426268795
+  }
+}
